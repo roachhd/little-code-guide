@@ -5,7 +5,7 @@
     * [DOCTYPE](html/doctype.md)
     * [Language](html/language.md)
     * [Encoding](html/encoding.md)
-    * [IE Compatibility Mode](html/ie-compatibility-mode.md
+    * [IE Compatibility Mode](html/ie-compatibility-mode.md)
     * [Style Script](html/style-script.md)
     * [Practicality](html/practicality.md)
     * [Attribute Order](html/attribute-order.md)

@@ -13,10 +13,10 @@ Based on [Code Guide](http://codeguide.co/) by [mdo](https://twitter.com/mdo), T
 
 ######Quotes
 
->Ruby is a stripper, Rails is the pole.
+>- Ruby is a stripper, Rails is the pole.
  When they get together, developers get real happy.
  --Anonymous
 
 
->Role models are important. 
+>- Role models are important. 
  -- Officer Alex J. Murphy / RoboCop

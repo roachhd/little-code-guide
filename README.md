@@ -1,11 +1,10 @@
 Little Code Book
 =================
 
-######Code Guide by @mdo
-
 >Standards for developing flexible, durable, and sustainable HTML and CSS.
->- mdo
+>-mdo
 
+Based on [Code Guide](http://codeguide.co/) by [mdo](https://twitter.com/mdo), The [GitHub](http://github.com) [style guide](https://github.com/styleguide) and several others.
 
 ## Golden rule
 

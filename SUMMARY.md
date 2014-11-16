@@ -1,5 +1,7 @@
 # Summary
- 
+
+* [Golden Rule](golden-rule/README.md)
+
 * [HTML](html/README.md)
     * [HTML](html/html.md)
     * [DOCTYPE](html/doctype.md)

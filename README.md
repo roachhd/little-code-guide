@@ -8,6 +8,7 @@ A developers guide: Standards for developing flexible, durable, and sustainable 
 Based on [Code Guide](http://codeguide.co/) by [mdo](https://twitter.com/mdo), The [GitHub](http://github.com) [style guide](https://github.com/styleguide) and rails style guide and can't think of the other 😲 
 
 
+---
 
 
 ######lol

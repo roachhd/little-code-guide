@@ -13,8 +13,7 @@
     * [Reducing Markup](html/reducing-markup.md)
     * [JavaScript](html/javascript.md)
 
-* [CSS]
-    * [CSS](css/README.md)
+* [CSS](css/README.md)
     * [CSS Syntax](css/syntax.md)
     * [Declaration Order](css/declaration-order.md)
     * [Import](css/import.md)

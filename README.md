@@ -14,9 +14,9 @@ Based on [Code Guide](http://codeguide.co/) by [mdo](https://twitter.com/mdo), T
 ######Quotes
 
 >Ruby is a stripper, Rails is the pole.
->When they get together, developers get real happy.
->--Anonymous
+When they get together, developers get real happy.
+--Anonymous
 
 
 >Role models are important. 
->-- Officer Alex J. Murphy / RoboCop
+-- Officer Alex J. Murphy / RoboCop
